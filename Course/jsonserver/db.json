@@ -1,0 +1,19 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API",
+      "content": "Content for my post"
+    },
+    {
+      "title": "Bc",
+      "content": "What does bc mean??",
+      "id": 2
+    },
+    {
+      "title": "What",
+      "content": "Is the meaninf of thisvhujnknbv h h h ",
+      "id": 3
+    }
+  ]
+}
